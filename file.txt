@@ -9,6 +9,7 @@ diiitttijgjnbfg
 editing this line for commijtn trial
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ssecond line
 =======
 ssecond lin
@@ -29,3 +30,5 @@ fifth
 
 333333333333333333333333333333333333333e
 >>>>>>> b92d4675b88f7e95855a09e9bf81f1e6015fdb26
+=======
+>>>>>>> e658a88870c83d5c345f5964a6508d61792c027c
