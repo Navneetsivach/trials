@@ -8,11 +8,16 @@ diiitttijgjnbfg
 
 editing this line for commijtn trial
 
+<<<<<<< HEAD
 ssecond line
+=======
+ssecond lin
+>>>>>>> b92d4675b88f7e95855a09e9bf81f1e6015fdb26
 
 
 
 
+<<<<<<< HEAD
 creating thirddd:q!
 
 
@@ -20,3 +25,7 @@ creating thirddd:q!
 fourthhhi
 
 fifth
+=======
+
+333333333333333333333333333333333333333e
+>>>>>>> b92d4675b88f7e95855a09e9bf81f1e6015fdb26
